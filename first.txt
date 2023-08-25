@@ -3,3 +3,4 @@ gitのバージョン管理を学びます
 ・git add
 ・git commit
 ・git rm
+・git status
