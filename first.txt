@@ -1,8 +1,10 @@
 gitの練習をしていきます
 gitのバージョン管理を学びます
 ・git add
-・git commit
+・git commit(ci)
 ・git rm
-・git status
+・git status(st)
 ・git log
 ・git diff
+・git mv
+・git checkout(co)
