@@ -8,3 +8,4 @@ gitのバージョン管理を学びます
 ・git diff
 ・git mv
 ・git checkout(co)
+・git commit --amend
