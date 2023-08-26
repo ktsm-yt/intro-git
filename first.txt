@@ -4,3 +4,5 @@ gitのバージョン管理を学びます
 ・git commit
 ・git rm
 ・git status
+・git log
+・git diff
